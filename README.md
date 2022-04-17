@@ -83,10 +83,6 @@
 - Chen, Lilly. “Basic Ensemble Learning (Random Forest, AdaBoost, Gradient Boosting)- Step by Step Explained.” Medium, January 2, 2019. https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725.
 - Morde, Vishal. “XGBoost Algorithm: Long May She Reign!” Medium, April 8, 2019. https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d.
 - “Light GBM vs XGBOOST: Which Algorithm Takes the Crown.” Accessed April 17, 2022. https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/.
-- **Random Forest**
-- **AdaBoost**
-- **Gradient Boosting**
-- **XGBoost**
-- **Light GBM**
+- **Random Forest**, **AdaBoost**, **Gradient Boosting**, **XGBoost**, **Light GBM**
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/2)
 - 🔗 [R 튜토리얼: tidyverse principle로 머신러닝하기](https://www.taemobang.com/posts/2022-04-04-do-machine-learning-with-tidyverse-principle/)
