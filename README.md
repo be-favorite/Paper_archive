@@ -11,10 +11,12 @@
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
 - 여러 시계열로 회귀를 수행할 때, 꼭 주의해야 할 알아두어야할 사항
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/76?category=1019644)
+- 🔗 [R 튜토리얼](https://be-favorite.github.io/Multiple_timeseries/CCF%20analysis%20and%20DLM/Tutorials_DLM.html): CCF 분석의 허구적 상관 확인 과정 참고
 
 #### Regression with ARIMA errors
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/74?category=1019644)
+- 🔗 [R 튜토리얼](https://be-favorite.github.io/Multiple_timeseries/CCF%20analysis%20and%20DLM/Tutorials_DLM.html)
 
 #### Distributed lag model
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
@@ -24,6 +26,7 @@
 - Gasparrini, Antonio, Benedict Armstrong, and M.G. Kenward. “Distributed Lag Non-Linear Models.” Statistics in Medicine 29 (September 20, 2010): 2224–34. https://doi.org/10.1002/sim.3940.
 - Gasparrini, Antonio. “Distributed Lag Linear and Non-Linear Models in R: The Package Dlnm.” Journal of Statistical Software 43 (July 1, 2011): 1–20. https://doi.org/10.18637/jss.v043.i08.
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/80)
+- 🔗 [PPT](https://be-favorite.github.io/Presentation_archive/DLM%2C%20DLNM/Introduction_dlm%2Cdlnm.html#6)
 - 🔗 [R 튜토리얼](https://be-favorite.github.io/Multiple_timeseries/DLNMs/Tutorials_DLNMs.html)
 
 ### Forecasting (예측 모델링)
