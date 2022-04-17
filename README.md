@@ -51,7 +51,18 @@
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/60?category=928223)
 - 🔗 [R 튜토리얼](https://otexts.com/fpp3/hts.html)
 
+### Other techniques
 
+#### Intervention analysis (Interrupted Time Series)
+- Slides. “Intervention Analysis.” Accessed April 17, 2022. https://slides.com/tonyg/intervention-analysis.
+- 🔗 [참고 자료](ITS_source.pdf)
+- 🔗 [스터디 노트](ITS_note.pdf)
+- 🔗 [R 코드](ITS_rcode.R)
+- 🔗 [R 코드: arimax() 튜토리얼](ITS_arimax()_rcode.R)
 
-
-  
+### Dynamic Time Warping (DTW)
+- Berndt, Donald J., and James Clifford. “Using Dynamic Time Warping to Find Patterns in Time Series.” In Proceedings of the 3rd International Conference on Knowledge Discovery and Data Mining, 359–70. AAAIWS’94. Seattle, WA: AAAI Press, 1994.
+- 선행 또는 후행하는 시계열, 시차가 존재하나 유사한 패턴이 존재하는 두 시계열을 잡아낼 수 있게끔 해주는 비유사성 측도(거리 측도) 알고리즘
+- DTW distance를 이용해 계층적 군집 분석 수행 가능
+- 🔗 [스터디 노트](DTW_note.pdf)
+- 🔗 [R 튜토리얼](DTW_tutorial.R)
