@@ -34,6 +34,7 @@
 #### Exponential Smoothing
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/62?category=928223)
+- 🔗 [R 튜토리얼: tidyverse principle로 시계열 자료분석하기](https://www.taemobang.com/posts/2022-03-11-do-time-series-analysis-with-tidyverse-principle/)
 
 #### ARIMA model
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
@@ -74,3 +75,13 @@
 - 일종의 시계열 Feature engineering 기법에 해당
 - 🔗 [스터디 노트](https://be-favorite.github.io/Paper_archive/archive/dwt/DWT_note.pdf)
 - 🔗 [R 튜토리얼](https://be-favorite.github.io/Paper_archive/archive/dwt/DWT_tutorial.pdf)
+
+## Machine Learning and Statistical Learning
+
+### Ensemble methods
+- Chen, Tianqi, and Carlos Guestrin. “XGBoost: A Scalable Tree Boosting System.” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, August 13, 2016, 785–94. https://doi.org/10.1145/2939672.2939785.
+- Chen, Lilly. “Basic Ensemble Learning (Random Forest, AdaBoost, Gradient Boosting)- Step by Step Explained.” Medium, January 2, 2019. https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725.
+- Morde, Vishal. “XGBoost Algorithm: Long May She Reign!” Medium, April 8, 2019. https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d.
+- “Light GBM vs XGBOOST: Which Algorithm Takes the Crown.” Accessed April 17, 2022. https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/.
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/2)
+- 🔗 [R 튜토리얼: tidyverse principle로 머신러닝하기](https://www.taemobang.com/posts/2022-04-04-do-machine-learning-with-tidyverse-principle/)
