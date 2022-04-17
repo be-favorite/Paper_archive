@@ -5,7 +5,7 @@
 
 ## Time Series
 
-### Regression (추론 모델링)
+### 추론 모델링 · Regression
 
 #### Spurious regression
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
@@ -29,7 +29,7 @@
 - 🔗 [PPT](https://be-favorite.github.io/Presentation_archive/DLM%2C%20DLNM/Introduction_dlm%2Cdlnm.html#6)
 - 🔗 [R 튜토리얼](https://be-favorite.github.io/Multiple_timeseries/DLNMs/Tutorials_DLNMs.html)
 
-### Forecasting (예측 모델링)
+### 예측모델링 · Forecasting
 
 #### Exponential Smoothing
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
