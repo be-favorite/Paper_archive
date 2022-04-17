@@ -1,7 +1,14 @@
 # My own paper archive
-논문과 책, 웹사이트 등을 통해 공부한 모델들을 아카이브합니다. 그리고, 그 외 Data Science를 하며 알아두면 좋을 것들에 정리한 사항도 아카이브 합니다.
+논문과 책, 웹사이트 등을 통해 공부한 모델들을 아카이브합니다. 그리고, 그 외 Data Science를 하며 알아두면 좋을 것들에 정리한 사항도 아카이브합니다.
 
 참고 문헌과 스터디 노트, 그리고 가능하다면 재현가능한 코드 또는 재현가능한 간략한 튜토리얼을 함께 제공하고자 합니다.
+
+본 아카이브의 목차입니다:
+- [Time Series](#time-series)
+- [Machine Learning and Statistical Learning](#machine-learning-and-statistical-learning)
+- [Deep Learning](#deep-learning)
+- [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
+- [Statistics](#statistics)
 
 ## Time Series
 
