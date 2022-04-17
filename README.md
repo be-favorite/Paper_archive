@@ -86,3 +86,10 @@
 - **Random Forest**, **AdaBoost**, **Gradient Boosting**, **XGBoost**, **Light GBM**
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/2)
 - 🔗 [R 튜토리얼: tidyverse principle로 머신러닝하기](https://www.taemobang.com/posts/2022-04-04-do-machine-learning-with-tidyverse-principle/)
+
+### Logistic regression
+- James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. “An Introduction to Statistical Learning.” An Introduction to Statistical Learning. Accessed April 17, 2022. https://www.statlearning.com.
+- Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. The Elements of Statistical Learning: Data Mining, Inference and Prediction. 2nd ed. Springer, 2009. http://www-stat.stanford.edu/~tibs/ElemStatLearn/.
+- StatQuest with Josh Starmer. Logistic Regression Details Pt 2: Maximum Likelihood, 2018. https://www.youtube.com/watch?v=BfKanl1aSG0.
+- Chatterjee, Samprit, and Ali S. Hadi. “Regression Analysis by Example, Fifth Edition.”
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/47)
