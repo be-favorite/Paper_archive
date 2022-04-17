@@ -1,5 +1,5 @@
 # My own paper archive
-논문과 책, 웹사이트 등을 통해 공부한 모델들을 아카이브합니다.
+논문과 책, 웹사이트 등을 통해 공부한 모델들을 아카이브합니다. 그리고, 그 외 Data Science를 하며 알아두면 좋을 것들에 정리한 사항도 아카이브 합니다.
 
 참고 문헌과 스터디 노트, 그리고 가능하다면 재현가능한 코드 또는 재현가능한 간략한 튜토리얼을 함께 제공하고자 합니다.
 
@@ -77,6 +77,9 @@
 - 🔗 [R 튜토리얼](https://be-favorite.github.io/Paper_archive/archive/dwt/DWT_tutorial.pdf)
 
 ## Machine Learning and Statistical Learning
+### Prerequisite
+- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press, 2016.
+- 🔗 [스터디 노트: Prerequisite 1 머신러닝 용어 정리](https://be-favorite.tistory.com/30?category=894492)
 
 ### Ensemble methods
 - Chen, Tianqi, and Carlos Guestrin. “XGBoost: A Scalable Tree Boosting System.” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, August 13, 2016, 785–94. https://doi.org/10.1145/2939672.2939785.
@@ -122,6 +125,7 @@
 - 🔗 [스터디 노트: Prerequisite 9 특잇값 분해와 일반화 역행렬](https://be-favorite.tistory.com/39?category=909652)
 - 🔗 [스터디 노트: Prerequisite 10 Trace 연산자와 행렬식](https://be-favorite.tistory.com/40?category=909652)
 - 🔗 [스터디 노트: Prerequisite 11 선형대수를 이용한 주성분 유도](https://be-favorite.tistory.com/41)
+- 🔗 [스터디 노트: Prerequisite 12 머신러닝 용어 정리](https://be-favorite.tistory.com/30?category=894492)
 
 ## High-Dimensional Data Analysis
 - Breheny, Patrick. High-Dimensional Data Analysis. The University of Iowa, 2016. https://myweb.uiowa.edu/pbreheny/7600/s16/index.html.
@@ -164,3 +168,25 @@
 
 #### False Discovery Rates (FDR)
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/26?category=908019)
+
+## Statistics
+- 통계학, 통계적 가설검정과 관련한 것들을 아카이브 합니다.
+
+### 구간추정의 해석에 대한 고전적 관점(Frequentist)과 베이지안 관점
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/27?category=894492)
+
+### 자유도(Degrees of Freedom)
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/44?category=894492)
+
+### 표준편차와 표준오차
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/45?category=894492)
+
+### "대립가설이 옳다."라는 식의 주장을 지양해야하는 이유
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/66?category=894492)
+
+### 중심극한정리의 의미
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/70?category=894492)
+- 🔗 [스터디 노트: 중심극한정리에 관한 고찰](https://statisticsplaybook.tistory.com/67?category=924794)
+
+### Fixed effect와 random effect
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/19?category=904635)
