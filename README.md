@@ -3,7 +3,8 @@
 
 참고 문헌과 스터디 노트, 그리고 가능하다면 재현가능한 코드 또는 재현가능한 간략한 튜토리얼을 함께 제공하고자 합니다.
 
-본 아카이브의 목차입니다:
+공부하고 연구했던 큰 주제들입니다:
+
 - [Time Series](#time-series)
 - [Machine Learning and Statistical Learning](#machine-learning-and-statistical-learning)
 - [Deep Learning](#deep-learning)
