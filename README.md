@@ -175,6 +175,9 @@
 ### 구간추정의 해석에 대한 고전적 관점(Frequentist)과 베이지안 관점
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/27?category=894492)
 
+### 검정력(power)과 검정력 함수에 대해
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/22?category=894489)
+
 ### 자유도(Degrees of Freedom)
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/44?category=894492)
 
