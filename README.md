@@ -94,7 +94,7 @@
 - Chatterjee, Samprit, and Ali S. Hadi. “Regression Analysis by Example, Fifth Edition.”
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/47)
 
-## Generalized Linear Model (GLM) and Generalized Additive Model (GAM)
+### Generalized Linear Model (GLM) and Generalized Additive Model (GAM)
 - Hayes, Genevieve. “Beyond Linear Regression: An Introduction to GLMs.” Medium, December 24, 2019. https://towardsdatascience.com/beyond-linear-regression-an-introduction-to-glms-7ae64a8fad9c.
 - James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. “An Introduction to Statistical Learning.” An Introduction to Statistical Learning. Accessed April 17, 2022. https://www.statlearning.com.
 - **GLM**
@@ -106,3 +106,18 @@
   - 🔗 [스터디 노트: Prerequisite 4 Smoothing splines](https://be-favorite.tistory.com/57?category=923110)
   - 🔗 [스터디 노트: Prerequisite 5 Local regressions](https://be-favorite.tistory.com/58?category=923110)
   - 🔗 [스터디 노트: GAMs](https://be-favorite.tistory.com/59?category=923110)
+
+## Deep Learning
+
+### Prerequisites
+- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press, 2016.
+- 🔗 [스터디 노트: Prerequisite 1 딥러닝의 모티베이션과 역사](https://be-favorite.tistory.com/8?category=897337)
+- 🔗 [스터디 노트: Prerequisite 2 선형대수의 여러 객체 소개](https://be-favorite.tistory.com/33?category=909652)
+- 🔗 [스터디 노트: Prerequisite 3 행렬의 전치와 브로드캐스팅](https://be-favorite.tistory.com/32?category=909652)
+- 🔗 [스터디 노트: Prerequisite 4 행렬과 벡터의 곱연산](https://be-favorite.tistory.com/34?category=909652)
+- 🔗 [스터디 노트: Prerequisite 5 선형방정식과 선형종속,span](https://be-favorite.tistory.com/35?category=909652)
+- 🔗 [스터디 노트: Prerequisite 6 norms](https://be-favorite.tistory.com/36?category=909652)
+- 🔗 [스터디 노트: Prerequisite 7 특별한 종류의 행렬과 벡터](https://be-favorite.tistory.com/37?category=909652)
+- 🔗 [스터디 노트: Prerequisite 8 고윳값 분해](https://be-favorite.tistory.com/38?category=909652)
+- 🔗 [스터디 노트: Prerequisite 9 특잇값 분해와 일반화 역행렬](https://be-favorite.tistory.com/39?category=909652)
+- 🔗 [스터디 노트: Prerequisite 10 Trace 연산자와 행렬식](https://be-favorite.tistory.com/40?category=909652)
