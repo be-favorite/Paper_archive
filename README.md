@@ -93,3 +93,15 @@
 - StatQuest with Josh Starmer. Logistic Regression Details Pt 2: Maximum Likelihood, 2018. https://www.youtube.com/watch?v=BfKanl1aSG0.
 - Chatterjee, Samprit, and Ali S. Hadi. “Regression Analysis by Example, Fifth Edition.”
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/47)
+
+## Generalized Linear Model (GLM) and Generalized Additive Model (GAM)
+- Hayes, Genevieve. “Beyond Linear Regression: An Introduction to GLMs.” Medium, December 24, 2019. https://towardsdatascience.com/beyond-linear-regression-an-introduction-to-glms-7ae64a8fad9c.
+- **GLM**
+  - 🔗 [스터디 노트](https://be-favorite.tistory.com/52)
+- **GAM**
+  - 🔗 [스터디 노트: Prerequisite 1 선형모형의 한계](https://be-favorite.tistory.com/53?category=923110)
+  - 🔗 [스터디 노트: Prerequisite 2 다항 회귀와 계단 함수](https://be-favorite.tistory.com/54?category=923110)
+  - 🔗 [스터디 노트: Prerequisite 3 Regression splines](https://be-favorite.tistory.com/56?category=923110)
+  - 🔗 [스터디 노트: Prerequisite 4 Smoothing splines](https://be-favorite.tistory.com/57?category=923110)
+  - 🔗 [스터디 노트: Prerequisite 5 Local regressions](https://be-favorite.tistory.com/58?category=923110)
+  - 🔗 [스터디 노트: GAMs](https://be-favorite.tistory.com/59?category=923110)
