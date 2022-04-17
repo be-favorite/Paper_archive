@@ -21,7 +21,6 @@
 #### Spurious regression
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
 - 여러 시계열로 회귀를 수행할 때, 꼭 주의해야 할 알아두어야할 사항
-- <a href="http://stackoverflow.com" target="_blank">Go</a>
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/76?category=1019644)
 - 🔗 [R 튜토리얼](https://be-favorite.github.io/Multiple_timeseries/CCF%20analysis%20and%20DLM/Tutorials_DLM.html): CCF 분석의 허구적 상관 확인 과정 참고
 
