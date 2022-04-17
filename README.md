@@ -96,6 +96,7 @@
 
 ## Generalized Linear Model (GLM) and Generalized Additive Model (GAM)
 - Hayes, Genevieve. “Beyond Linear Regression: An Introduction to GLMs.” Medium, December 24, 2019. https://towardsdatascience.com/beyond-linear-regression-an-introduction-to-glms-7ae64a8fad9c.
+- James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. “An Introduction to Statistical Learning.” An Introduction to Statistical Learning. Accessed April 17, 2022. https://www.statlearning.com.
 - **GLM**
   - 🔗 [스터디 노트](https://be-favorite.tistory.com/52)
 - **GAM**
