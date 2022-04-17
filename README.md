@@ -12,6 +12,7 @@
 - [Deep Learning](#deep-learning)
 - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
 - [Statistics](#statistics)
+- [Miscellaneous](#miscellaneous)
 
 ## Time Series
 
@@ -203,3 +204,8 @@
 
 ### Fixed effect와 random effect
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/19?category=904635)
+
+## Miscellaneous
+
+### 결정론적 SIR 모형을 이용한 감염병 유행 모델링
+- 🔗 [스터디 노트와 R 튜토리얼](https://github.com/be-favorite/Tutorials_SIR-models)
