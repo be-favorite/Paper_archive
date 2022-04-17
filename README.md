@@ -121,3 +121,4 @@
 - 🔗 [스터디 노트: Prerequisite 8 고윳값 분해](https://be-favorite.tistory.com/38?category=909652)
 - 🔗 [스터디 노트: Prerequisite 9 특잇값 분해와 일반화 역행렬](https://be-favorite.tistory.com/39?category=909652)
 - 🔗 [스터디 노트: Prerequisite 10 Trace 연산자와 행렬식](https://be-favorite.tistory.com/40?category=909652)
+- 🔗 [스터디 노트: Prerequisite 11 선형대수를 이용한 주성분 유도](https://be-favorite.tistory.com/41)
