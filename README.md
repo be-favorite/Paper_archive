@@ -5,7 +5,7 @@
 
 ## Time Series
 
-### 추론 모델링 · Regression
+### 1 추론 모델링 · Regression
 
 #### Spurious regression
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
@@ -29,7 +29,7 @@
 - 🔗 [PPT](https://be-favorite.github.io/Presentation_archive/DLM%2C%20DLNM/Introduction_dlm%2Cdlnm.html#6)
 - 🔗 [R 튜토리얼](https://be-favorite.github.io/Multiple_timeseries/DLNMs/Tutorials_DLNMs.html)
 
-### 예측모델링 · Forecasting
+### 2 예측모델링 · Forecasting
 
 #### Exponential Smoothing
 - 나종화. R 응용 시계열분석. 자유아카데미. 2020.
@@ -52,7 +52,7 @@
 - 🔗 [스터디 노트](https://be-favorite.tistory.com/60?category=928223)
 - 🔗 [R 튜토리얼](https://otexts.com/fpp3/hts.html)
 
-### Other techniques
+### 3 Other techniques
 
 #### Intervention analysis (Interrupted Time Series)
 - Slides. “Intervention Analysis.” Accessed April 17, 2022. https://slides.com/tonyg/intervention-analysis.
@@ -122,3 +122,45 @@
 - 🔗 [스터디 노트: Prerequisite 9 특잇값 분해와 일반화 역행렬](https://be-favorite.tistory.com/39?category=909652)
 - 🔗 [스터디 노트: Prerequisite 10 Trace 연산자와 행렬식](https://be-favorite.tistory.com/40?category=909652)
 - 🔗 [스터디 노트: Prerequisite 11 선형대수를 이용한 주성분 유도](https://be-favorite.tistory.com/41)
+
+## High-Dimensional Data Analysis
+- Breheny, Patrick. High-Dimensional Data Analysis. The University of Iowa, 2016. https://myweb.uiowa.edu/pbreheny/7600/s16/index.html.
+  - R  및 예제 Dataset 제공
+- 일반적인 기게학습 기반의 예측 모델링으로 접근하기 어려운 n -> p 또는 n < p 인 자료의 예측 모델링에 관한 방법론(여기서 n은 관측치의 수, p는 예측변수의 수)
+- 꼭 고차원 자료가 아닌, 회귀모형의 예측 성능을 높이기 위해서도 사용되는 방법론들에 해당
+- 통계적 가설검정 관점에서 가설 검정시 발생하는 고차원 문제에 관한 솔루션 또한 제공함
+
+### 1 고차원 자료에 관한 예측 모델링
+
+#### Prerequisites
+- 🔗 [스터디 노트: Prerequisite 고차원 자료에 대한 고전적인 회귀분석의 문제점](https://be-favorite.tistory.com/28?category=908019)
+
+#### Ridge regression
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/29?category=908019)
+
+#### Lasso regression
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/46?category=908019)
+
+#### Bias reduction of Lasso estimator
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/48?category=908019)
+
+#### Variance reduction of Lasso eistimator
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/49?category=908019)
+
+#### Penalized logistic regression
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/50?category=908019)
+
+#### Penalized robust regression
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/51?category=908019)
+
+### 2 통계적 가설검정 관점의 고차원 문제
+
+#### Prerequisites
+- 🔗 [스터디 노트: Prerequisite 1 통계적 가설검정의 원리](https://be-favorite.tistory.com/21?category=894492)
+- 🔗 [스터디 노트: Prerequisite 2 다중 검정](https://be-favorite.tistory.com/20)
+
+#### Family-Wise Error Rates (FWER)
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/25?category=908019)
+
+#### False Discovery Rates (FDR)
+- 🔗 [스터디 노트](https://be-favorite.tistory.com/26?category=908019)
