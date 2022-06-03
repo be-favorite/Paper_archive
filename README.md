@@ -141,7 +141,7 @@
 ## High-Dimensional Data Analysis
 - Breheny, Patrick. High-Dimensional Data Analysis. The University of Iowa, 2016. https://myweb.uiowa.edu/pbreheny/7600/s16/index.html.
   - R  및 예제 Dataset 제공
-- 일반적인 기게학습 기반의 예측 모델링으로 접근하기 어려운 n -> p 또는 n < p 인 자료의 예측 모델링에 관한 방법론(여기서 n은 관측치의 수, p는 예측변수의 수)
+- 일반적인 기계학습 기반의 예측 모델링으로 접근하기 어려운 n -> p 또는 n < p 인 자료의 예측 모델링에 관한 방법론(여기서 n은 관측치의 수, p는 예측변수의 수)
 - 꼭 고차원 자료가 아닌, 회귀모형의 예측 성능을 높이기 위해서도 사용되는 방법론들에 해당
 - 통계적 가설검정 관점에서 가설 검정시 발생하는 고차원 문제에 관한 솔루션 또한 제공함
 
